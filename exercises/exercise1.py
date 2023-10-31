@@ -87,3 +87,8 @@
 
 # farwell = "Goodbye World!";
 # print(farwell[1:]);
+
+
+
+
+# answers (`https://www.udemy.com/course/pythonforbeginnersintro/learn/lecture/38231802#overview`)
